@@ -1,0 +1,10 @@
+/* TODO Add site wide styles */
+body {
+    margin: 0px;
+    justify-content: center;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -.4px;
+}
